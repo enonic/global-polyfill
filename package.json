@@ -1,0 +1,18 @@
+{
+  "author": "Christian Westgaard <cwe@enonic.com>",
+  "description": "Polyfill Global (for Enonic XP server-side javascript code)",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "enonic",
+    "global",
+    "polyfill",
+    "webpack",
+    "nashorn"
+  ],
+  "main": "index.js",
+  "name": "@enonic/global-polyfill",
+  "repository": "https://github.com/enonic/global-polyfill",
+  "version": "1.0.0"
+}
