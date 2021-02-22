@@ -1,6 +1,7 @@
 {
   "author": "Christian Westgaard <cwe@enonic.com>",
   "description": "Polyfill Global (for Enonic XP server-side javascript code)",
+  "license": "Apache-2.0",
   "files": [
     "index.js"
   ],
